@@ -1,11 +1,2 @@
-### Hi there 👋
-
-<!--
-**alireza95afrasiabi/alireza95afrasiabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React.JS
-- 💬 Ask me about Developing and how to be a Geek !
-- 📫 How to reach me: afrasiabi95ali@gmail.com
--->
+Hello :wave:, I'm Alireza Afrasiabi :man_technologist:,
+Front-end developer with expert knowledge in JavaScript, HTML, CSS, Sass. Familiar with SEO and Python. Good communication skills, team work, multitasking and flexibility in the workplace. Ready to work hybrid or remote.
