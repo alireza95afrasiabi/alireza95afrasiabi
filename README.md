@@ -4,4 +4,4 @@ Front-end developer with expert knowledge in JavaScript, HTML, CSS, Sass. Famili
 
 I studied English for Academic Purposes for 2 years in the Canadian University of Dubai. 
 
-I can also speak the German language  upper intermediate level . 
+I can also speak the German language  upper intermediate level (B2) . 
