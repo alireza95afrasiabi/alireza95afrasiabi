@@ -27,6 +27,6 @@ Feel free to reach out or explore my repositories.
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alireza95afrasiabi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alireza95afrasiabi&theme=dark)
