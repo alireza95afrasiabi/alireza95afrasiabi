@@ -24,3 +24,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/alireza-afrasiabi-04509b230)  [![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aliafra.com)
 
 Feel free to reach out or explore my repositories.
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alireza95afrasiabi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alireza95afrasiabi&theme=dark)
