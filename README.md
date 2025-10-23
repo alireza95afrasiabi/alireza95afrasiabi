@@ -13,8 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats and 🛠️ Most Used Languages
-
 ![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=true&theme=vue)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alireza95afrasiabi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
