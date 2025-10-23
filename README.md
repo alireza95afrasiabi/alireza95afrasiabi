@@ -13,22 +13,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats and 🛠️ Most Used Languages
 
-![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=true&theme=vue)
-
-### 🛠️ Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
+![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=true&theme=vue)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/alireza-afrasiabi-04509b230)  
-[![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aliafra.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/alireza-afrasiabi-04509b230)  [![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aliafra.com)
 
 Feel free to reach out or explore my repositories.
-
