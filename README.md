@@ -25,7 +25,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/yourlinkedinusername](https://www.linkedin.com/in/alireza-afrasiabi-04509b230/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/alireza-afrasiabi-04509b230)  
 [![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white&style=for-the-badge)](https://aliafra.com)
 
 ---
