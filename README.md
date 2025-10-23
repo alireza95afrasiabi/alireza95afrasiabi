@@ -1,6 +1,6 @@
 # Hi there, I'm Alireza Afra 👋
 
-### Front-End Developer | Passionate about Crafting Interactive and Responsive Web Experiences
+### Crafting scalable, performant, and accessible web applications with over 5 years of professional experience.
 
 ---
 
