@@ -15,11 +15,11 @@
 
 ### 📊 GitHub Stats
 
-![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=vue)
+![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=true&theme=vue)
 
 ### 🛠️ Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
 
 ---
 
