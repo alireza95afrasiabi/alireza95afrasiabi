@@ -13,7 +13,7 @@
 
 ---
 
-![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=false&theme=github)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
+![Alireza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi&show_icons=true&count_private=true&theme=vue)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
 
 ---
 
