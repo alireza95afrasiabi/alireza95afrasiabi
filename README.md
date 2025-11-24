@@ -12,9 +12,6 @@
 - 🌐 Check out my personal website and LinkedIn for more about my work and projects.
 
 ---
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza95afrasiabi) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza95afrasiabi&layout=compact&theme=vue)
-
----
 
 ### 📫 Connect with me
 
